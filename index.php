@@ -2,11 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GreenEdge Landscaping</title>
+  <title>Thevenot Landscaping and Lawncare</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Welcome to GreenEdge Landscaping</h1>
+  <h1>TLL</h1>
   <p>Professional landscaping and lawn care in your neighborhood.</p>
   <ul>
     <li><a href="contact.php">Contact Us</a></li>
