@@ -18,6 +18,8 @@
       </div>
       <div class="phone">
         <a href="tel:8125551234">(812) 555-1234</a>
+        <a href="#services" class="nav-button">Services</a>
+        <a href="#showcases" class="nav-button">Showcases</a>
       </div>
     </div>
 
